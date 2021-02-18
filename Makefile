@@ -1,4 +1,4 @@
-package: compile build push
+package: build push
 
 compile:
 	# Compiling software
